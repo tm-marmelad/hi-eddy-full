@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;700&family=JetBrains+Mono&display=swap');
+.tariff {
+    text-align: center;   
+    width: 328px; 
+    height: 396px;    
+    background: rgba(235, 246, 253, 0.34);
+    border: 1px solid #D0EDF4;    
+    border-radius: 14px;
+    
+}
+
+.tariff__days {
+    color: #520096;
+    margin-top: 21px;
+}
+
+.tariff__price {
+    color: #EA8512;
+    margin-top: 14px;
+}
+.tariff button {
+    width: 193px;
+    height: 28px;
+    margin: 30px 0;
+    
+}

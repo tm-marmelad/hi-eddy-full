@@ -1,0 +1,14 @@
+.container {
+    margin-top: 400px;
+  
+    
+}
+.footer__wrapper {
+   width: 1315px;
+   height: 54px;
+    background: url(../img/Frame\ 6\ \(1\).png);
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-around;
+        
+}
