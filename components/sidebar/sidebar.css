@@ -1,0 +1,27 @@
+.sidebar {
+  width: var(--sidebar-width);
+  height: 100%;
+  background-color: var(--background-color);
+  display: flex;
+  flex-direction: column;
+}
+
+.sidebar__group {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.sidebar__divider {
+  border-bottom: 1px solid var(--border-color);
+}
+
+.sidebar__button-wrapper {
+  padding: 15px;
+}
+
+.sidebar__lang-switcher-wrapper {
+  margin-top: auto;
+  padding-bottom: 20px;
+  display: flex;
+  justify-content: center;
+}
